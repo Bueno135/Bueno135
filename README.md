@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Nicolas Weiss Bueno, tenho 19 anos e sou natural do Paraná. Concluí o ensino médio no Sesi. Atualmente, estou cursando Engenharia de software na unibrasil. Sou apaixonado por tecnologia.
+Me chamo Nicolas Weiss Bueno, tenho 19 anos e sou natural do Paraná. Concluí o ensino médio no Sesi. Atualmente, estou cursando Engenharia de software na unibrasil. Sou apaixonado por tecnologia e adoraria colocar em prática todos os meus conhecimentos.
 
 ---
 
