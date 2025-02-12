@@ -1,6 +1,6 @@
-# 👩🏻‍💻 Nicolas Bueno
+# 👨‍💻 Nicolas Bueno
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Nicolas Weiss Bueno, tenho 19 anos e sou natural do Paraná. Concluí o ensino médio no Sesi. Atualmente, estou cursando Engenharia de software na unibrasil. Sou apaixonado por tecnologia.
 
