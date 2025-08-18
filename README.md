@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Nicolas Weiss Bueno, tenho 19 anos e sou natural do Paraná. Atualmente, estou cursando o 2º semestre de Engenharia de software na unibrasil. Sou apaixonado por tecnologia e adoraria colocar em prática todos os meus conhecimentos.
+Me chamo Nicolas Weiss Bueno, tenho 19 anos e sou natural do Paraná. Atualmente, estou cursando o 4º semestre de Engenharia de software na unibrasil. Sou apaixonado por tecnologia e adoraria colocar em prática todos os meus conhecimentos.
 
 ---
 
@@ -104,6 +104,14 @@ Me chamo Nicolas Weiss Bueno, tenho 19 anos e sou natural do Paraná. Atualmente
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/C/C-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="AWS" 
+    title="AWS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/AWS/AWS-original.svg" 
 />
 
 <br/>
