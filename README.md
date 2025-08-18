@@ -111,7 +111,7 @@ Me chamo Nicolas Weiss Bueno, tenho 19 anos e sou natural do Paraná. Atualmente
     title="AWS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/AWS/AWS-original.svg" 
+    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/AWS/AWS-original.svg](https://www.google.com/imgres?q=aws&imgurl=https%3A%2F%2Fwww.opentext.com%2Fassets%2Fimages%2Fpartners%2Fopentext-aws-logo-cover-416x274.png&imgrefurl=https%3A%2F%2Fwww.opentext.com%2Fpt-br%2Fparceiros%2Fopentext-na-amazon-web-services&docid=V4xWzo00_AFxdM&tbnid=4DBe3jdQnWkV1M&w=416&h=274&hcb=2)" 
 />
 
 <br/>
