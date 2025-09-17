@@ -18,9 +18,9 @@
 class NicolasBueno:
     def __init__(self):
         self.nome = "Nicolas Weiss Bueno"
-        self.idade = 19
+        self.idade = 20
         self.localização = "Paraná, Brasil 🇧🇷"
-        self.educação = "Engenharia de Software - UniBrasil (4º semestre)"
+        self.educação = "Engenharia de Software - UniBrasil (5º semestre)"
         self.paixões = ["Tecnologia", "Programação", "Inovação"]
         self.objetivo = "Transformar ideias em código e código em soluções!"
         
@@ -49,7 +49,7 @@ nicolas.diga_ola()
 
 ### **Tools & More** 🔧
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,docker" alt="Tools"/>
 </p>
 
 </div>
@@ -74,36 +74,20 @@ nicolas.diga_ola()
 ```javascript
 const nicolasAtualmente = {
   🎓 estudando: ["Engenharia de Software", "Novas Tecnologias"],
-  🔨 trabalhando: ["Projetos Pessoais", "Aprimorando Skills"],
-  🌱 aprendendo: ["Node.js", "MongoDB", "Docker"],
-  🎯 objetivos2025: ["Primeiro Estágio", "Contribuir Open Source"],
-  ⚡ hobbies: ["Gaming", "Séries", "Aprender algo novo sempre!"]
+  🔨 trabalhando: ["Atualmente na empresa Ibolt, Projetos Pessoais", "Aprimorando Skills"],
+  🌱 aprendendo: ["Java", "FileMaker Pro", "Docker", "AWS"],
+  🎯 objetivos2025: ["Estruturar bem os conhecimentos"],
+  ⚡ hobbies: ["Gaming", "Séries", "Aprender algo novo sempre!", "Academia", "Jiu-Jitsu", "Trilhas"]
 }
 ```
-
----
-
-## 🌟 Projetos em Destaque
-
-<div align="center">
-  <a href="https://github.com/nicolasbueno/projeto1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nicolasbueno&repo=projeto1&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/nicolasbueno/projeto2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=nicolasbueno&repo=projeto2&theme=tokyonight" />
-  </a>
-</div>
-
----
 
 ## 🤝 Vamos Conectar?
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nicolasbueno)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nicolasbueno)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolas@exemplo.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nicolasbueno.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-weiss-bueno/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/weiss.bueno)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nweissbueno@gmail.com)
 
 </div>
 
