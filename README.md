@@ -51,18 +51,23 @@ nicolas.diga_ola()
 </div>
 
 ---
-
-## 📊 Estatísticas do Desenvolvedor
-
+📊 Estatísticas do Desenvolvedor
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolasbueno&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasbueno&layout=compact&langs_count=7&theme=tokyonight"/>
+  <a href="https://github.com/nicolasbueno">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=nicolasbueno&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=86400"/>
+  </a>
+  <a href="https://github.com/nicolasbueno">
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=nicolasbueno&layout=compact&langs_count=8&theme=tokyonight&cache_seconds=86400"/>
+  </a>
 </div>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nicolasbueno&theme=tokyonight" alt="GitHub Streak" />
+  <a href="https://github.com/nicolasbueno">
+    <img src="https://streak-stats.demolab.com/?user=nicolasbueno&theme=tokyonight&cache_seconds=86400" alt="GitHub Streak" />
+  </a>
 </div>
-
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicolasbueno&theme=tokyonight" alt="Profile Summary"/>
+</div>
 ---
 
 ## 🎯 Foco Atual
